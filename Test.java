@@ -4,6 +4,7 @@ public class Test
 	{
 		System.out.println("Hello, Linus Trovalds");
 
-		System.out.println("Chat Feature is gonna Added!!");		
+		System.out.println("Chat Feature is gonna Added!!");	
+		System.out.println("Chat Feature - User name & Password!!");	
 	}
 }
